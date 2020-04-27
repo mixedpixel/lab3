@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+D_jak_Deploy.ipynb
+daftacademy.sublime-project
+daftacademy.sublime-workspace
+
+requirements-dev.txt
+
+stawianie_srodowiska.txt
+test_main.py
+tmp/
+wirtualka/
